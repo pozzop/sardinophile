@@ -18,10 +18,10 @@ command = "npm run build"
   # Set the default header to the one we want for documents
   for = "/*"
     [headers.values]
-    cache-control = "public,max-age=86500"
+    cache-control = "public,max-age=86"
 
 [[headers]]
   # Override cache duration for assets with periods in the filename (i.e. static assets)
   for = "/*.*"
     [headers.values]
-    cache-control = "public,max-age=8650000"
+    cache-control = "public,max-age=86"
