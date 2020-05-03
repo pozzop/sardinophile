@@ -1441,7 +1441,7 @@
                                           "type": "text",
                                           "text": "Sardinophile",
                                           "id": 7759734,
-                                          "isVisible": true,
+                                          "isVisible": false,
                                           "children": []
                                         }
                                       ],
