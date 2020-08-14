@@ -16,7 +16,7 @@ function ContentCardsSection(props) {
             {
               image: "/img/pinhais.jpg",
               title: "Pack Sardinophile",
-              body: "Sélection de 20 boites remarquables",
+              body: "Sélection de boites remarquables",
               url: "/pack-sardinophile",
             },
             {
