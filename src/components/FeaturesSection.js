@@ -33,13 +33,13 @@ function FeaturesSection(props) {
               {
                 title: "Découverte",
                 description:
-                  "10 classiques à l'huile d'olive de la maison Pinhais et 10 boites de marques et saveurs variées: à la tomate, au piment, fumées.",
+                  "Voyage en Galice pour des vraies boites artisanales: Paco Lafuente, Sotavento, Los Peperetes, Laterio, Cambados et Real Conservera Espagnola",
                 image: "/img/pinhais.jpg",
               },
               {
-                title: "Confites à point",
+                title: "Pack Galice",
                 description:
-                  "Boites datées d'au moins 6 mois avec 5 millésimées d'au moins 3 ans d'âge. Boites standard de 120-125g.",
+                  "Des sardinettes, des millésimées, des verrines, une sélection variée et remarquable du meilleur de Galice !",
                 image: "/img/vintage.jpg",
               },
             ]}
@@ -52,7 +52,7 @@ function FeaturesSection(props) {
         backgroundImage=""
         backgroundImageOpacity={1}
         title=""
-        subtitle="Pack de 20 boites d&#39;exception pour 80€ port compris chez nos amis du Comptoir du Portugal à Bordeaux."
+        subtitle="Pack de 11 boites d&#39;exception pour 78€ avec le code GALICE10SUR10, port compris + une Pinhais offerte"
         buttonText="Commander le Pack Sardinophile"
         buttonOnClick={() => {
           // Navigate to pricing page
