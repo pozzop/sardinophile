@@ -14,7 +14,7 @@ function PackSardinophilePage(props) {
         backgroundImage=""
         backgroundImageOpacity={0.1}
         title="Pack Sardinophile"
-        subtitle="Une sélection de 20 boites de sardines remarquables avec le Bordeaux Sardines Club et le Comptoir du Portugal"
+        subtitle="Une sélection de boites de sardines remarquables avec le Bordeaux Sardines Club et le Comptoir du Portugal"
         buttonText="Commander le Pack"
         buttonOnClick={() => {
           // Navigate to pricing page
@@ -27,7 +27,7 @@ function PackSardinophilePage(props) {
         backgroundImage=""
         backgroundImageOpacity={1}
         title="Pack Sardinophile"
-        subtitle="Une sélection de 20 boites de sardines remarquables avec le Comptoir du Portugal à Bordeaux"
+        subtitle="Une sélection de boites de sardines remarquables avec le Comptoir du Portugal à Bordeaux"
       ></FeaturesSection>
     </>
   );
