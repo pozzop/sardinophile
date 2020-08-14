@@ -13,7 +13,7 @@ function PackSardinophilePage(props) {
         size="normal"
         backgroundImage=""
         backgroundImageOpacity={0.1}
-        title="Pack Sardinophile"
+        title="Pack Sardinophile - Voyage en Galice"
         subtitle="Une sélection de boites de sardines remarquables avec le Bordeaux Sardines Club et le Comptoir du Portugal"
         buttonText="Commander le Pack"
         buttonOnClick={() => {
