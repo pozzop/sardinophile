@@ -34,13 +34,13 @@ function FeaturesSection(props) {
                 title: "Découverte",
                 description:
                   "Voyage en Galice pour des vraies boites artisanales: Paco Lafuente, Sotavento, Los Peperetes, Laterio, Cambados et Real Conservera Espagnola",
-                image: "/img/pinhais.jpg",
+                image: "/img/galice.jpg",
               },
               {
                 title: "Pack Galice",
                 description:
                   "Des sardinettes, des millésimées, des verrines, une sélection variée et remarquable du meilleur de Galice !",
-                image: "/img/vintage.jpg",
+                image: "/img/pack-galice.jpg",
               },
             ]}
           ></Features>
