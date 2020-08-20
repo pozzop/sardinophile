@@ -52,7 +52,7 @@ function FeaturesSection(props) {
         backgroundImage=""
         backgroundImageOpacity={1}
         title=""
-        subtitle="Pack de 11 boites d&#39;exception pour 78€ avec le code GALICE10SUR10, port compris + une Pinhais offerte"
+        subtitle="Pack de 11 boites d&#39;exception pour 78€ avec le code GALICE10SUR10, port compris + une boite offerte"
         buttonText="Commander le Pack Sardinophile"
         buttonOnClick={() => {
           // Navigate to pricing page
