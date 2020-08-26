@@ -4,30 +4,6 @@ import FeaturesSection from "./../components/FeaturesSection";
 import { useRouter } from "./../util/router.js";
 
 
-    "type" :"application/ld+json”,
-    {
-   "@context":"https://schema.org/",
-   "@type":"Product",
-   "name":"Pack Sardinophile",
-   "image":"https://www.sardinophile.com/img/degustation.jpg",
-   "description":"Une sélection de boites de sardines remarquables approuvées par le Club des Sardinophiles",
-   "brand":"Comptoir du Portugal",
-   "offers":{
-      "@type":"Offer",
-      "url":"https://www.sardinophile.com/pack-sardinophile",
-      "priceCurrency":"EUR",
-      "price":"78",
-      "priceValidUntil":"2020-12-31",
-      "availability":"https://schema.org/InStock",
-      "itemCondition":"https://schema.org/NewCondition"
-   },
-   "sameAs":[
-         "https://www.lecomptoirduportugal.com/boutique/produits-de-la-mer/pack-galice-sardinophile-conserves-poisson-exeption-galice-espagne/"
-      ]
-}   
-
-
-
 function PackSardinophilePage(props) {
   const router = useRouter();
 
