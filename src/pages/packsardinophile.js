@@ -3,7 +3,7 @@ import CtaSection from "./../components/CtaSection";
 import FeaturesSection from "./../components/FeaturesSection";
 import { useRouter } from "./../util/router.js";
 
-<script type="application/ld+json”>
+
     "type" :"application/ld+json”,
     {
    "@context":"https://schema.org/",
@@ -26,7 +26,6 @@ import { useRouter } from "./../util/router.js";
       ]
 }   
 
-</script>
 
 
 function PackSardinophilePage(props) {
