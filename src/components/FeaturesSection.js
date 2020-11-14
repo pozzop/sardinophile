@@ -25,22 +25,22 @@ function FeaturesSection(props) {
                 image: "/img/degustation.jpg",
               },
               {
-                title: "Tradition",
+                title: "Nouvelle Vague",
                 description:
-                  "Nous soutenons les conserveries qui perpétuent une tradition artisanale de qualité.",
-                image: "/img/tradition.jpg",
+                  "L'épicerie de la pêche à Bordeaux qui soutient les artisans de qualité.",
+                image: "/img/NouvelleVague.jpg",
               },
               {
                 title: "Découverte",
                 description:
-                  "Voyage en Galice pour des vraies boites artisanales: Paco Lafuente, Sotavento, Los Peperetes, Laterio, Cambados et Real Conservera Espagnola",
-                image: "/img/galice.jpg",
+                  "Des marques réputées: La Quiberonnaise, Compagnie Bretonne, Paco Lafuente, Los Peperetes, Porthos, Berthe, Rios, Real Conservera Espagnola, etc.",
+                image: "/img/marques.jpg",
               },
               {
-                title: "Pack Galice",
+                title: "Pack Coupe d'Europe",
                 description:
-                  "Des sardinettes, des millésimées, des verrines, une sélection variée et remarquable du meilleur de Galice !",
-                image: "/img/pack-galice.jpg",
+                  "Des sardinettes, des millésimées, des fumées, une sélection variée du meilleur de l'Europe !",
+                image: "/img/pack-europe.jpg",
               },
             ]}
           ></Features>
@@ -52,7 +52,7 @@ function FeaturesSection(props) {
         backgroundImage=""
         backgroundImageOpacity={1}
         title=""
-        subtitle="Pack de 11 boites d&#39;exception pour 78€ avec le code GALICE10SUR10, port compris + une boite offerte"
+        subtitle="Pack de 13 boites d&#39;exception pour 75€ port compris + une boite offerte"
         buttonText="Commander le Pack Sardinophile"
         buttonOnClick={() => {
           // Navigate to pricing page
