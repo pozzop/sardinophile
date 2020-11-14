@@ -14,8 +14,8 @@ function PackSardinophilePage(props) {
         size="normal"
         backgroundImage=""
         backgroundImageOpacity={0.1}
-        title="Pack Sardinophile - Voyage en Galice"
-        subtitle="Une sélection de boites de sardines remarquables avec le Bordeaux Sardines Club et le Comptoir du Portugal"
+        title="Pack Sardinophile - Coupe d'Europe"
+        subtitle="Une sélection de boites de sardines remarquables avec l'épicerie de la pêche Nouvelle Vague à Bordeaux"
         buttonText="Commander le Pack"
         buttonOnClick={() => {
           // Navigate to pricing page
@@ -28,7 +28,7 @@ function PackSardinophilePage(props) {
         backgroundImage=""
         backgroundImageOpacity={1}
         title="Pack Sardinophile"
-        subtitle="Une sélection de boites de sardines remarquables avec le Comptoir du Portugal à Bordeaux"
+        subtitle="Une sélection de boites de sardines remarquables avec Nouvelle Vague à Bordeaux"
       ></FeaturesSection>
     </>
   );
