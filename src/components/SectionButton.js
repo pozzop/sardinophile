@@ -11,7 +11,7 @@ function SectionButton(props) {
   } = props;
 
   return (
-    <a href="https://www.lecomptoirduportugal.com/boutique/produits-de-la-mer/pack-galice-sardinophile-conserves-poisson-exeption-galice-espagne/">
+    <a href="https://nouvellevague-bordeaux.fr/produit/13-1-conserves-de-sardines-dexception-de-france-despagne-et-du-portugal/">
       <button
         className={
           "button is-rounded" +
