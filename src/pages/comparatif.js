@@ -11,7 +11,7 @@ function ComparatifPage(props) {
       size="normal"
       backgroundImage=""
       backgroundImageOpacity={1}
-      title="Panorama France 2020"
+      title="Panorama France 2022"
       subtitle="Tour d'horizon des conserveries françaises"
       buttonText=""
       image=""
