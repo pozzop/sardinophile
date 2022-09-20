@@ -13,18 +13,17 @@ function ContentCardsSection(props) {
       <div className="container">
         <ContentCards
           people={[
-          
+             {
+              image: "/img/panorama.jpg",
+              title: "Panorama France",
+              body: "Comparatif des marques françaises",
+              url: "/comparatif",
+            },
             {
               image: "/img/chat.jpg",
               title: "Dégustation",
               body: "4 fiches pratiques pour sardinophile",
               url: "/degustation",
-            },
-            {
-              image: "/img/panorama.jpg",
-              title: "Panorama France",
-              body: "Comparatif des marques françaises",
-              url: "/comparatif",
             },
             {
               image: "/img/lasardine.jpg",
