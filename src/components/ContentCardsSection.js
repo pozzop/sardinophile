@@ -14,7 +14,7 @@ function ContentCardsSection(props) {
         <ContentCards
           people={[
             {
-              image: "/img/pinhais.jpg",
+              image: "/img/NouvelleVague.jpg",
               title: "Nouvelle Vague",
               body: "L'épicerie de la pêche à Bordeaux",
               url: "/pack-sardinophile",
