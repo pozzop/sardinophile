@@ -11,7 +11,7 @@ function SectionButton(props) {
   } = props;
 
   return (
-    <a href="https://nouvellevague-bordeaux.fr/produit/13-1-conserves-de-sardines-dexception-de-france-despagne-et-du-portugal/">
+    <a href="https://nouvellevague-bordeaux.fr/produits/">
       <button
         className={
           "button is-rounded" +
