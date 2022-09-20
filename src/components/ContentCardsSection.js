@@ -15,8 +15,8 @@ function ContentCardsSection(props) {
           people={[
             {
               image: "/img/pinhais.jpg",
-              title: "Boutique",
-              body: "Nouvelle Vague",
+              title: "Nouvelle Vague",
+              body: "L'épicerie de la pêche à Bordeaux",
               url: "/pack-sardinophile",
             },
             {
