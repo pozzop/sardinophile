@@ -15,8 +15,8 @@ function ContentCardsSection(props) {
           people={[
             {
               image: "/img/pinhais.jpg",
-              title: "Pack Sardinophile",
-              body: "Sélection de boites remarquables",
+              title: "Boutique",
+              body: "Nouvelle Vague",
               url: "/pack-sardinophile",
             },
             {
