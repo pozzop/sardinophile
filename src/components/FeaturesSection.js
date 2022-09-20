@@ -18,12 +18,7 @@ function FeaturesSection(props) {
         <div className="container">
           <Features
             items={[
-              {
-                title: "Dégustation",
-                description:
-                  "Toutes les boites du Pack ont passé l'épreuve des connaisseurs du Club des Sardinophiles. ",
-                image: "/img/degustation.jpg",
-              },
+            
               {
                 title: "Nouvelle Vague",
                 description:
