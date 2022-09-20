@@ -13,12 +13,7 @@ function ContentCardsSection(props) {
       <div className="container">
         <ContentCards
           people={[
-            {
-              image: "/img/NouvelleVague.jpg",
-              title: "Nouvelle Vague",
-              body: "L'épicerie de la pêche à Bordeaux",
-              url: "/pack-sardinophile",
-            },
+          
             {
               image: "/img/chat.jpg",
               title: "Dégustation",
@@ -36,6 +31,12 @@ function ContentCardsSection(props) {
               title: "La sardine",
               body: "Une pour toutes, toutes pour une",
               url: "/sardine",
+            },
+                    {
+              image: "/img/NouvelleVague.jpg",
+              title: "Nouvelle Vague",
+              body: "L'épicerie de la pêche à Bordeaux",
+              url: "/pack-sardinophile",
             },
           ]}
         ></ContentCards>
