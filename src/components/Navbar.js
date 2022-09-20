@@ -29,7 +29,7 @@ function Navbar(props) {
         <div className={"navbar-menu" + (menuOpen ? " is-active" : "")}>
           <div className="navbar-end">
             <Link className="navbar-item" to="/pack-sardinophile">
-              Pack Sardinophile
+              Boutique
             </Link>
             <Link className="navbar-item" to="/degustation">
               Dégustation
