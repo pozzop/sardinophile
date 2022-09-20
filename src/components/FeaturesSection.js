@@ -31,12 +31,6 @@ function FeaturesSection(props) {
                   "Des marques réputées: La Quiberonnaise, Compagnie Bretonne, Paco Lafuente, Los Peperetes, Porthos, Berthe, Rios, Real Conservera Espagnola, etc.",
                 image: "/img/marques.jpg",
               },
-              {
-                title: "Pack Coupe d'Europe",
-                description:
-                  "Des sardinettes, des millésimées, des fumées, une sélection du meilleur de France, Espagne et Portugal !",
-                image: "/img/pack-europe.jpg",
-              },
             ]}
           ></Features>
         </div>
@@ -47,8 +41,8 @@ function FeaturesSection(props) {
         backgroundImage=""
         backgroundImageOpacity={1}
         title=""
-        subtitle="Pack de 13 boites d&#39;exception pour 75€ port compris + une boite offerte"
-        buttonText="Commander le Pack Sardinophile"
+        subtitle=""
+        buttonText="voir le site Nouvelle Vague"
         buttonOnClick={() => {
           // Navigate to pricing page
           router.push("");
