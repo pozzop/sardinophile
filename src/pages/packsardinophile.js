@@ -14,9 +14,9 @@ function PackSardinophilePage(props) {
         size="normal"
         backgroundImage=""
         backgroundImageOpacity={0.1}
-        title="Pack Sardinophile - Coupe d'Europe"
-        subtitle="Une sélection de boites de sardines remarquables avec l'épicerie de la pêche Nouvelle Vague à Bordeaux"
-        buttonText="Commander le Pack"
+        title="Nouvelle Vague"
+        subtitle="La bonne adresse pour une sélection des meilleures sardines du Portugal, d'Espagne et de France"
+        buttonText="Voir la boutique en ligne de Nouvelle Vague"
         buttonOnClick={() => {
           // Navigate to pricing page
           router.push("");
@@ -27,7 +27,7 @@ function PackSardinophilePage(props) {
         size="normal"
         backgroundImage=""
         backgroundImageOpacity={1}
-        title="Pack Sardinophile"
+        title="Nouvelle Vague"
         subtitle="Une sélection de boites de sardines remarquables avec Nouvelle Vague à Bordeaux"
       ></FeaturesSection>
     </>
