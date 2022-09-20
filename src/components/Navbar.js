@@ -28,17 +28,17 @@ function Navbar(props) {
         </div>
         <div className={"navbar-menu" + (menuOpen ? " is-active" : "")}>
           <div className="navbar-end">
-            <Link className="navbar-item" to="/pack-sardinophile">
-              Boutique
+            <Link className="navbar-item" to="/comparatif">
+              Panorama
             </Link>
             <Link className="navbar-item" to="/degustation">
               Dégustation
             </Link>
-            <Link className="navbar-item" to="/comparatif">
-              Panorama
-            </Link>
             <Link className="navbar-item" to="/sardine">
               La Sardine
+            </Link>
+<Link className="navbar-item" to="/pack-sardinophile">
+              Boutique
             </Link>
           </div>
         </div>
