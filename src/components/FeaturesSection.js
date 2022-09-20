@@ -39,7 +39,7 @@ function FeaturesSection(props) {
               {
                 title: "Pack Coupe d'Europe",
                 description:
-                  "Des sardinettes, des millésimées, des fumées, une sélection variée du meilleur de France, Espagne et Portugal !",
+                  "Des sardinettes, des millésimées, des fumées, une sélection du meilleur de France, Espagne et Portugal !",
                 image: "/img/pack-europe.jpg",
               },
             ]}
