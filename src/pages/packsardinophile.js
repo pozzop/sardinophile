@@ -14,9 +14,9 @@ function PackSardinophilePage(props) {
         size="normal"
         backgroundImage=""
         backgroundImageOpacity={0.1}
-        title="Nouvelle Vague"
-        subtitle="La bonne adresse pour une sélection des meilleures sardines du Portugal, d'Espagne et de France"
-        buttonText="Voir la boutique en ligne de Nouvelle Vague"
+        title="Passion Sardine"
+        subtitle="La bonne adresse pour une sélection de sardines premium du Portugal, d'Espagne et de France"
+        buttonText="Exclusif Sardinophile -10% sur toute la boutique Passion Sardine"
         buttonOnClick={() => {
           // Navigate to pricing page
           router.push("");
@@ -27,8 +27,8 @@ function PackSardinophilePage(props) {
         size="normal"
         backgroundImage=""
         backgroundImageOpacity={1}
-        title="Nouvelle Vague"
-        subtitle="Une sélection de boites de sardines remarquables avec Nouvelle Vague à Bordeaux"
+        title="Passion Sardine"
+        subtitle="Une sélection de boites de sardines remarquables avec Passion Sardine"
       ></FeaturesSection>
     </>
   );
