@@ -32,9 +32,9 @@ function ContentCardsSection(props) {
               url: "/sardine",
             },
                     {
-              image: "/img/NouvelleVague.jpg",
-              title: "Nouvelle Vague",
-              body: "L'épicerie de la pêche à Bordeaux",
+              image: "/img/PassionSardine.jpg",
+              title: "Passion Sardine",
+              body: "La boutique de boites premium",
               url: "/pack-sardinophile",
             },
           ]}
