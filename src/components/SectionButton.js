@@ -11,7 +11,7 @@ function SectionButton(props) {
   } = props;
 
   return (
-    <a href="https://nouvellevague-bordeaux.fr/produits/">
+    <a href="https://passionsardine.com/discount/SARDINOPHILE">
       <button
         className={
           "button is-rounded" +
