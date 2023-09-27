@@ -20,15 +20,15 @@ function FeaturesSection(props) {
             items={[
             
               {
-                title: "Nouvelle Vague",
+                title: "Passion Sardine",
                 description:
-                  "L'épicerie de la pêche à Bordeaux qui soutient les artisans de qualité.",
-                image: "/img/NouvelleVague.jpg",
+                  "Spécialiste des conserves de la mer premium.",
+                image: "/img/PassionSardine.jpg",
               },
               {
                 title: "Découverte",
                 description:
-                  "Des marques réputées: La Quiberonnaise, Compagnie Bretonne, Paco Lafuente, Los Peperetes, Porthos, Berthe, Rios, Real Conservera Espagnola, etc.",
+                  "Toutes nos marques favorites: Compagnie Bretonne, Paco Lafuente, Pinhais, La Brújula, La Curiosa, Real Conservera Espagnola, etc.",
                 image: "/img/marques.jpg",
               },
             ]}
@@ -42,7 +42,7 @@ function FeaturesSection(props) {
         backgroundImageOpacity={1}
         title=""
         subtitle=""
-        buttonText="voir le site Nouvelle Vague"
+        buttonText="-10% sur toute la boutique Passion Sardine "
         buttonOnClick={() => {
           // Navigate to pricing page
           router.push("");
