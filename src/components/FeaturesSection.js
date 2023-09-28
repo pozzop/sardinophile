@@ -28,8 +28,8 @@ function FeaturesSection(props) {
               {
                 title: "Passion Sardine",
                 description:
-                  "On y trouve toutes nos marques favorites: Compagnie Bretonne, Paco Lafuente, Pinhais, La Brújula, La Curiosa, Real Conservera Espagnola, etc.",
-                image: "/img/marques.jpg",
+                  "On y déguste toutes nos marques favorites: Compagnie Bretonne, Paco Lafuente, Pinhais, La Brújula, La Curiosa, Real Conservera Espagnola, etc.",
+                image: "/img/PassionMarques.jpg",
               },
             ]}
           ></Features>
