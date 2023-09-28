@@ -20,9 +20,6 @@ function FeaturesSection(props) {
             items={[
             
               {
-                title: "",
-                description:
-                  "",
                 image: "/img/PassionSardine.jpg",
               },
               {
