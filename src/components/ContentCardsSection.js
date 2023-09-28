@@ -34,7 +34,7 @@ function ContentCardsSection(props) {
                     {
               image: "/img/PassionSardineSmall.jpg",
               title: "Passion Sardine",
-              body: "La boutique de boites premium",
+              body: "La boutique des boites premium",
               url: "/pack-sardinophile",
             },
           ]}
