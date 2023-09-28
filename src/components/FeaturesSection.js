@@ -19,7 +19,7 @@ function FeaturesSection(props) {
           <Features
             items={[
               {
-                title: "",
+                title: "Passion Sardine",
                 description:
                   "Le Sardinophile y déguste toutes ses marques favorites: Compagnie Bretonne, Paco Lafuente, Pinhais, La Brújula, La Curiosa, Real Conservera Espagnola, etc.",
                 image: "/img/PassionSardine.jpg",
