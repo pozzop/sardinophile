@@ -20,9 +20,9 @@ function FeaturesSection(props) {
             items={[
             
               {
-                title: "Passion Sardine",
+                title: "",
                 description:
-                  "Spécialiste des conserves de la mer premium.",
+                  "",
                 image: "/img/PassionSardine.jpg",
               },
               {
