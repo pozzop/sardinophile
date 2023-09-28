@@ -18,15 +18,11 @@ function FeaturesSection(props) {
         <div className="container">
           <Features
             items={[
-            
-              {
-                image: "/img/PassionSardine.jpg",
-              },
               {
                 title: "",
                 description:
                   "Le Sardinophile y déguste toutes ses marques favorites: Compagnie Bretonne, Paco Lafuente, Pinhais, La Brújula, La Curiosa, Real Conservera Espagnola, etc.",
-                image: "/img/PassionMarques.jpg",
+                image: "/img/PassionSardine.jpg",
               },
             ]}
           ></Features>
