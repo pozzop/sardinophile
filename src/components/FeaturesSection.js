@@ -42,7 +42,7 @@ function FeaturesSection(props) {
         backgroundImageOpacity={1}
         title=""
         subtitle=""
-        buttonText="-10% sur toute la boutique<br/> Passion Sardine "
+        buttonText="Coupon -10% Passion Sardine "
         buttonOnClick={() => {
           // Navigate to pricing page
           router.push("");
