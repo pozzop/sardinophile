@@ -21,7 +21,7 @@ function FeaturesSection(props) {
               {
                 title: "Passion Sardine",
                 description:
-                  "Le Sardinophile y déguste toutes ses marques favorites: Compagnie Bretonne, Paco Lafuente, Pinhais, La Brújula, La Curiosa, Real Conservera Espagnola, etc. \n Profitez du coupon exclusif -10% sur toute la boutique activé en cliquant sur ce bouton:",
+                  "Le Sardinophile y déguste toutes ses marques favorites: Compagnie Bretonne, Paco Lafuente, Pinhais, La Brújula, La Curiosa, Real Conservera Espagnola, etc. Profitez d'un coupon exclusif -10% sur toute la boutique activé en cliquant sur ce bouton:",
                 image: "/img/PassionSardine.jpg",
               },
             ]}
