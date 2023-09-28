@@ -28,7 +28,7 @@ function FeaturesSection(props) {
               {
                 title: "",
                 description:
-                  "On y déguste toutes nos marques favorites: Compagnie Bretonne, Paco Lafuente, Pinhais, La Brújula, La Curiosa, Real Conservera Espagnola, etc.",
+                  "Le Sardinophile y déguste toutes ses marques favorites: Compagnie Bretonne, Paco Lafuente, Pinhais, La Brújula, La Curiosa, Real Conservera Espagnola, etc.",
                 image: "/img/PassionMarques.jpg",
               },
             ]}
